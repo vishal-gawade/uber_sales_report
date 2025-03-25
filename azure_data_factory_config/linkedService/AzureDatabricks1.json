@@ -1,0 +1,14 @@
+{
+	"name": "AzureDatabricks1",
+	"type": "Microsoft.DataFactory/factories/linkedservices",
+	"properties": {
+		"annotations": [],
+		"type": "AzureDatabricks",
+		"typeProperties": {
+			"domain": "https://adb-196681156482787.7.azuredatabricks.net",
+			"authentication": "MSI",
+			"workspaceResourceId": "/subscriptions/5164afb6-2323-4ca4-9bc9-32f76d68d455/resourceGroups/project/providers/Microsoft.Databricks/workspaces/vishaladbpr",
+			"existingClusterId": "0324-110504-1zfcvcms"
+		}
+	}
+}

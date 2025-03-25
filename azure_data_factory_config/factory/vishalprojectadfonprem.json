@@ -1,0 +1,9 @@
+{
+	"name": "vishalprojectadfonprem",
+	"location": "centralus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "ccd65982-1d8b-41df-9576-db5cf428a073",
+		"tenantId": "2bf43d77-11b2-4d2e-8896-f14560dfe219"
+	}
+}
